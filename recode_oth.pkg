@@ -1,0 +1,7 @@
+v 1
+d Installation package for recode_oth
+d Created by Ashiqur Rahman Rony
+d Date: 01 Sept 2025
+
+f ado/recode_oth.ado
+f help/recode_oth.sthlp
