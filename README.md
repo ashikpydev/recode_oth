@@ -1,6 +1,6 @@
 # recode_oth
 
-**Author:** Ashikur Rahman  
+**Author:** Ashiqur Rahman Rony  
 **GitHub:** [ashikpydev](https://github.com/ashikpydev)  
 **Last Updated:** 2025-09-01  
 
